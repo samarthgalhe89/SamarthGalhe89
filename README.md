@@ -9,16 +9,6 @@
 **AI & Data Science Undergraduate (2027)**  
 **Full Stack Developer | Clean Architecture | Secure Systems**
 
-I’m an **AI & Data Science undergraduate (2027)** and a **Full Stack Developer** focused on building  
-**scalable, secure, and user-centric web applications**.
-
-I primarily work with  
-**Next.js, React, Node.js, Express, MongoDB, PostgreSQL, and TypeScript**,  
-following **clean architecture** and **modern authentication practices**.
-
-I enjoy **problem-solving**, **backend systems**, **cloud integrations**, and I’m actively exploring  
-**AI/ML fundamentals** to bridge **intelligent systems with real-world products**.
-
 ---
 
 ## 🌐 Connect With Me
