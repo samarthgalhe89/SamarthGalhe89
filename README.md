@@ -62,12 +62,7 @@ I enjoy **problem-solving**, **backend systems**, **cloud integrations**, and Iâ
 ---
 
 ## ðŸ“Š GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samarthgalhe89&show_icons=true&theme=dark&hide_border=true)
-
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=samarthgalhe89&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthgalhe89&layout=compact&theme=dark&hide_border=true)
 
 ---
 
