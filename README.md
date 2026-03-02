@@ -124,6 +124,7 @@ interests = {
 for domain, topics in interests.items():
     print(f"{domain} → {', '.join(topics)}")
 ```
+
 <div align="center">
 
 ## 💬 Random Dev Wisdom
@@ -145,12 +146,6 @@ for domain, topics in interests.items():
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════╗
-║  "Build things that scale,                       ║
-║   systems that last,                             ║
-║   and products that matter."          — Samarth  ║
-╚══════════════════════════════════════════════════╝
-```
+> *"Build things that scale, systems that last, and products that matter."* — Samarth
 
 </div>
