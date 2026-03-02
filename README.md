@@ -124,19 +124,6 @@ interests = {
 for domain, topics in interests.items():
     print(f"{domain} → {', '.join(topics)}")
 ```
-
----
-
-## 🎯 2025 Roadmap
-
-- [ ] 🚀 Ship a production-grade AI-powered SaaS
-- [ ] 🧠 Complete ML specialization & build real models
-- [ ] 🤝 Contribute meaningfully to open source
-- [ ] 📝 Start a technical writing journey
-- [ ] 🎓 Land a killer internship in AI/Full Stack
-
----
-
 <div align="center">
 
 ## 💬 Random Dev Wisdom
