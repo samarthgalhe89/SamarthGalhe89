@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:FF6B35&height=200&section=header&text=SAMARTH&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science&descAlignY=60&descSize=20&animation=fadeIn)
+[![SAMARTH](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&duration=1&pause=99999&color=00D9FF&center=true&vCenter=true&repeat=false&width=700&height=110&lines=SAMARTH)](https://github.com/SamarthGalhe89)
 
 </div>
 
@@ -154,7 +154,7 @@ for domain, topics in interests.items():
 
 <br/>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=samarthgalhe89&left_color=gray&right_color=00D9FF)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SamarthGalhe89.SamarthGalhe89&left_color=0d1117&right_color=00D9FF&left_text=visitors)
 
 <br/>
 
@@ -165,7 +165,5 @@ for domain, topics in interests.items():
 ║   and products that matter."          — Samarth  ║
 ╚══════════════════════════════════════════════════╝
 ```
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:00D9FF,100:0D1117&height=120&section=footer&animation=fadeIn)
 
 </div>
