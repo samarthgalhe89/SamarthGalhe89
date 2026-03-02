@@ -1,20 +1,18 @@
 <div align="center">
 
 ```
- ░▒▓███████▓▒░ ░▒▓██████▓▒░ ░▒▓██████████████▓▒░  ░▒▓██████▓▒░ ░▒▓███████▓▒░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░         ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░         ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░ 
- ░▒▓██████▓▒░░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓███████▓▒░   ░▒▓█▓▒░   ░▒▓████████▓▒░ 
-       ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░  ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░ 
-       ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░  ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░   ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░ 
+ ____    _    __  __    _    ____  _____ _   _ 
+/ ___|  / \  |  \/  |  / \  |  _ \|_   _| | | |
+\___ \ / _ \ | |\/| | / _ \ | |_) | | | | |_| |
+ ___) / ___ \| |  | |/ ___ \|  _ <  | | |  _  |
+|____/_/   \_\_|  |_/_/   \_\_| \_\ |_| |_| |_|
 ```
 
 </div>
 
 <div align="center">
 
-### `> AI × Data Science Undergrad` &nbsp;|&nbsp; `> Full Stack Developer` &nbsp;|&nbsp; `> Class of 2027`
+### `> AI × Data Science Undergrad` &nbsp;|&nbsp; `> Full Stack Developer`
 
 <br/>
 
@@ -88,18 +86,19 @@ const samarth: Developer = {
 
 ## 📡 Mission Control
 
-```
- SYSTEM STATUS ──────────────────────────────────────────────────────
- 
- [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░] 80%  Full Stack Mastery       ONLINE ✅
- [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░] 60%  ML / AI Engineering      LOADING ⚡
- [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░] 75%  System Design            ACTIVE 🔥
- [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░] 88%  Clean Architecture       NOMINAL ✅
- [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 95%  Problem Solving          PEAK 🚀
- 
- CURRENT MISSION: Ship features. Stay curious. Graduate 2027.
- ──────────────────────────────────────────────────────────────────
-```
+<div align="center">
+
+| Skill | Level | Status |
+|:------|:-----:|-------:|
+| 🌐 Full Stack Development | ![80%](https://img.shields.io/badge/━━━━━━━━━━━━━━━━░░░░-80%25-00D9FF?style=flat-square&labelColor=0d1117) | `ONLINE ✅` |
+| 🤖 ML / AI Engineering | ![60%](https://img.shields.io/badge/━━━━━━━━━━━━░░░░░░░░-60%25-FF6B35?style=flat-square&labelColor=0d1117) | `LOADING ⚡` |
+| 🏗️ System Design | ![75%](https://img.shields.io/badge/━━━━━━━━━━━━━━━░░░░░-75%25-00D9FF?style=flat-square&labelColor=0d1117) | `ACTIVE 🔥` |
+| 🧹 Clean Architecture | ![88%](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━░░░-88%25-00D9FF?style=flat-square&labelColor=0d1117) | `NOMINAL ✅` |
+| 🧩 Problem Solving | ![95%](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━░-95%25-39FF14?style=flat-square&labelColor=0d1117) | `PEAK 🚀` |
+
+> 🛰️ **CURRENT MISSION:** Ship features. Stay curious. Graduate 2027.
+
+</div>
 
 ---
 
