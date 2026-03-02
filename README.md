@@ -1,12 +1,6 @@
 <div align="center">
 
-```
- ____    _    __  __    _    ____  _____ _   _ 
-/ ___|  / \  |  \/  |  / \  |  _ \|_   _| | | |
-\___ \ / _ \ | |\/| | / _ \ | |_) | | | | |_| |
- ___) / ___ \| |  | |/ ___ \|  _ <  | | |  _  |
-|____/_/   \_\_|  |_/_/   \_\_| \_\ |_| |_| |_|
-```
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:FF6B35&height=200&section=header&text=SAMARTH&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science&descAlignY=60&descSize=20&animation=fadeIn)
 
 </div>
 
@@ -96,6 +90,8 @@ const samarth: Developer = {
 | 🧹 Clean Architecture | ![88%](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━░░░-88%25-00D9FF?style=flat-square&labelColor=0d1117) | `NOMINAL ✅` |
 | 🧩 Problem Solving | ![95%](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━░-95%25-39FF14?style=flat-square&labelColor=0d1117) | `PEAK 🚀` |
 
+> 🛰️ **CURRENT MISSION:** Ship features. Stay curious. Graduate 2027.
+
 </div>
 
 ---
@@ -108,8 +104,8 @@ const samarth: Developer = {
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=samarthgalhe89&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35&text_color=FFFFFF" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthgalhe89&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=SamarthGalhe89&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35&text_color=FFFFFF&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthGalhe89&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" height="165" />
 
 </div>
 
@@ -128,6 +124,19 @@ interests = {
 for domain, topics in interests.items():
     print(f"{domain} → {', '.join(topics)}")
 ```
+
+---
+
+## 🎯 2025 Roadmap
+
+- [ ] 🚀 Ship a production-grade AI-powered SaaS
+- [ ] 🧠 Complete ML specialization & build real models
+- [ ] 🤝 Contribute meaningfully to open source
+- [ ] 📝 Start a technical writing journey
+- [ ] 🎓 Land a killer internship in AI/Full Stack
+
+---
+
 <div align="center">
 
 ## 💬 Random Dev Wisdom
@@ -156,5 +165,7 @@ for domain, topics in interests.items():
 ║   and products that matter."          — Samarth  ║
 ╚══════════════════════════════════════════════════╝
 ```
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:00D9FF,100:0D1117&height=120&section=footer&animation=fadeIn)
 
 </div>
