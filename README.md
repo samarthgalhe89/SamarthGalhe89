@@ -96,8 +96,6 @@ const samarth: Developer = {
 | 🧹 Clean Architecture | ![88%](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━░░░-88%25-00D9FF?style=flat-square&labelColor=0d1117) | `NOMINAL ✅` |
 | 🧩 Problem Solving | ![95%](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━░-95%25-39FF14?style=flat-square&labelColor=0d1117) | `PEAK 🚀` |
 
-> 🛰️ **CURRENT MISSION:** Ship features. Stay curious. Graduate 2027.
-
 </div>
 
 ---
@@ -130,19 +128,6 @@ interests = {
 for domain, topics in interests.items():
     print(f"{domain} → {', '.join(topics)}")
 ```
-
----
-
-## 🎯 2025 Roadmap
-
-- [ ] 🚀 Ship a production-grade AI-powered SaaS
-- [ ] 🧠 Complete ML specialization & build real models
-- [ ] 🤝 Contribute meaningfully to open source
-- [ ] 📝 Start a technical writing journey
-- [ ] 🎓 Land a killer internship in AI/Full Stack
-
----
-
 <div align="center">
 
 ## 💬 Random Dev Wisdom
