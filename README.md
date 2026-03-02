@@ -66,54 +66,6 @@
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!--                    QUANTUM PROJECTS – LIVE DEPLOYMENTS           -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🚀 QUANTUM PROJECTS – LIVE DEPLOYMENTS 🚀</h2>
-
-<p align="center">
-  <em>Handpicked neural nodes from the matrix: Scalable, intelligent, and battle-tested.</em>
-</p>
-
-<br/>
-
-<div align="center">
-
-### 🌐 **Neural Nexus** – AI-Powered Social Hub
-[![Neural Nexus](https://img.shields.io/badge/Live-00F0FF?style=for-the-badge&logo=vercel&logoColor=white)](https://neural-nexus.vercel.app)
-> A full-stack social platform with real-time chat, ML-driven recommendations, and secure auth. Built for the connected future.
-- **Tech Pulse**: Next.js • Socket.io • TensorFlow.js • PostgreSQL
-- **Stars**: ⭐ 120+ | **Forked**: 🍴 25
-- [Dive into Repo](https://github.com/samarthgalhe89/neural-nexus) • [Demo](https://neural-nexus.vercel.app)
-
-<br/>
-
-### 🔒 **SecureForge** – Enterprise-Grade Auth System
-[![SecureForge](https://img.shields.io/badge/Live-FF2E63?style=for-the-badge&logo=render&logoColor=white)](https://secureforge.render.com)
-> JWT-secured API fortress with role-based access, encryption layers, and audit trails. Scales to infinity.
-- **Tech Pulse**: Node.js • Express • MongoDB • JWT • bcrypt
-- **Stars**: ⭐ 85+ | **Forked**: 🍴 12
-- [Dive into Repo](https://github.com/samarthgalhe89/secureforge) • [API Docs](https://secureforge.render.com/docs)
-
-<br/>
-
-### 🧠 **Insight Engine** – Data Science Dashboard
-[![Insight Engine](https://img.shields.io/badge/Live-00F0FF?style=for-the-badge&logo=vercel&logoColor=white)](https://insight-engine.vercel.app)
-> Interactive dashboard for predictive analytics: Visualize trends, run ML models, and forecast tomorrow.
-- **Tech Pulse**: React • D3.js • Python (Flask) • Pandas • Scikit-learn
-- **Stars**: ⭐ 200+ | **Forked**: 🍴 40
-- [Dive into Repo](https://github.com/samarthgalhe89/insight-engine) • [Live Viz](https://insight-engine.vercel.app)
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/More%20Projects...-00F0FF?style=for-the-badge&logo=github&logoColor=white" />
-  <br/> Explore the full archive: <a href="https://github.com/samarthgalhe89?tab=repositories">github.com/samarthgalhe89</a>
-</p>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════ -->
 <!--                     SYSTEM METRICS – LIVE FEED                  -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
