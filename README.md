@@ -145,7 +145,8 @@ for domain, topics in interests.items():
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SamarthGalhe89.SamarthGalhe89&left_color=0d1117&right_color=00D9FF&left_text=visitors)
 
 <br/>
-
-> *"Build things that scale, systems that last, and products that matter."* — Samarth
-
+<table align="center"><tr><td align="center" width="700">
+💭 "Build things that scale, systems that last, and products that matter."
+— Samarth
+</td></tr></table>
 </div>
