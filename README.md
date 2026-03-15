@@ -149,16 +149,13 @@ for domain, topics in interests.items():
 
 ---
 
-## 🐍 Contribution Snake
-
+🐍 Contribution Snake
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamarthGalhe89/SamarthGalhe89/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamarthGalhe89/SamarthGalhe89/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/SamarthGalhe89/SamarthGalhe89/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
 </div>
 
 > ⚠️ **Snake not showing?** You need to set up the GitHub Action. Create `.github/workflows/snake.yml` in your profile repo with the [Platane snake action](https://github.com/Platane/snk) and run it once to generate the SVG into the `output` branch.
