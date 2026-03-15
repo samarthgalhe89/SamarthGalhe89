@@ -1,63 +1,63 @@
-<div align="center">
-
-[![SAMARTH](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&duration=1&pause=99999&color=00D9FF&center=true&vCenter=true&repeat=false&width=700&height=110&lines=SAMARTH)](https://github.com/SamarthGalhe89)
-
-</div>
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:16a34a,100:0ea5e9&height=220&section=header&text=Samarth%20Galhe&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=45)
 
 <div align="center">
 
-### `> AI × Data Science Undergrad` &nbsp;|&nbsp; `> Full Stack Developer`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+Engineer+%F0%9F%9A%80;AI+%26+Data+Science+Undergrad+%F0%9F%A4%96;React+%7C+Next.js+%7C+Node.js+%7C+Python;Open+to+Internships+%26+Collaborations!)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+systems+that+scale+%F0%9F%9A%80;Architecting+for+tomorrow+%F0%9F%A7%A0;Clean+code%2C+clean+conscience+%E2%9C%A8;From+idea+to+production+%F0%9F%8C%90)](https://git.io/typing-svg)
-
-<br/>
-
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthgalhe9@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-galhe)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthgalhe9@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamarthGalhe89)
+
+![Profile Views](https://komarev.com/ghpvc/?username=SamarthGalhe89&label=Profile+Views&color=22c55e&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/SamarthGalhe89?label=Followers&style=for-the-badge&color=0ea5e9&labelColor=0f172a)
 
 </div>
 
 ---
 
-## 🧬 `whoami`
+## 👨‍💻 About Me
 
-```typescript
-const samarth: Developer = {
-  name:       "Samarth Galhe",
-  role:       "Full Stack Developer & AI Enthusiast",
-  education:  "B.Tech — AI & Data Science (2027)",
-  location:   "India 🇮🇳",
-
-  currentlyLearning: ["LLM Fine-tuning", "System Design", "MLOps"],
-  building:   "Scalable web systems + intelligent pipelines",
-  superpower: "Turning caffeine ☕ into clean architecture",
-
-  philosophy: "Build things that scale, systems that last, products that matter.",
-};
+```yaml
+Name     : Samarth Galhe
+Role     : Full-Stack Developer & AI Enthusiast
+Education: B.Tech — AI & Data Science (2027)
+Location : India 🇮🇳
+Focus:
+  - Full-Stack Web Development (React · Next.js · Node.js)
+  - AI / ML Pipeline Engineering
+  - Scalable Backend Systems with JWT & Clean Architecture
+Currently Exploring:
+  - LLM Fine-tuning & RAG Pipelines
+  - System Design & Microservices
+  - MLOps & Event-Driven Architecture
+Open To  : Internships and Collaborations
+Philosophy: Build things that scale, systems that last, products that matter.
 ```
 
 ---
 
-## ⚡ Tech Constellation
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 🔤 Languages
+**🔤 Languages**
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### 🎨 Frontend Universe
+**🎨 Frontend**
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-### 🛠 Backend & Data Layer
+**⚙️ Backend & Databases**
+
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -65,7 +65,8 @@ const samarth: Developer = {
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-### ☁️ DevOps & Tooling
+**🔧 Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -78,34 +79,57 @@ const samarth: Developer = {
 
 ---
 
+## 🚀 Featured Projects
+
+| 🔖 Project | 💡 Description | ⚡ Stack | 🔗 |
+|:---|:---|:---|:---:|
+| 🌐 **Scalable Web Systems** | Production-ready full-stack applications built to handle real-world workloads with clean architecture | React · Next.js · Node.js · PostgreSQL · JWT | [![repo](https://img.shields.io/badge/-Repo-171515?style=flat&logo=github)](https://github.com/SamarthGalhe89) |
+| 🤖 **Intelligent Pipelines** | AI/ML-powered data pipelines integrating LLMs and backend systems for smart automation | Python · LangChain · Vector DBs · Express.js | [![repo](https://img.shields.io/badge/-Repo-171515?style=flat&logo=github)](https://github.com/SamarthGalhe89) |
+
+---
+
+### 🤖 AI Pipeline — Architecture
+
+```
+  [User Input / Data Source]
+        │
+        ▼
+  [Ingestion Layer] ──────── API / File / Stream
+        │
+        ▼
+  [Preprocessing] ────────── Chunking + Cleaning
+        │
+        ▼
+  [Embedding Model] ──────── Vector Representation
+        │
+        ▼
+  [Vector Database] ──────── Similarity Search
+        │
+        ▼
+  [LLM Inference] ────────── Context-Aware Response
+        │
+        ▼
+  [Backend API] ──────────── Node.js / Express
+        │
+        ▼
+  [Frontend UI] ──────────── Next.js · React · Tailwind
+```
+
+---
+
 ## 📡 Mission Control
 
 <div align="center">
 
 | Skill | Level | Status |
 |:------|:-----:|-------:|
-| 🌐 Full Stack Development | ![80%](https://img.shields.io/badge/━━━━━━━━━━━━━━━━░░░░-80%25-00D9FF?style=flat-square&labelColor=0d1117) | `ONLINE ✅` |
-| 🤖 ML / AI Engineering | ![60%](https://img.shields.io/badge/━━━━━━━━━━━━░░░░░░░░-60%25-FF6B35?style=flat-square&labelColor=0d1117) | `LOADING ⚡` |
-| 🏗️ System Design | ![75%](https://img.shields.io/badge/━━━━━━━━━━━━━━━░░░░░-75%25-00D9FF?style=flat-square&labelColor=0d1117) | `ACTIVE 🔥` |
-| 🧹 Clean Architecture | ![88%](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━░░░-88%25-00D9FF?style=flat-square&labelColor=0d1117) | `NOMINAL ✅` |
-| 🧩 Problem Solving | ![95%](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━░-95%25-39FF14?style=flat-square&labelColor=0d1117) | `PEAK 🚀` |
+| 🌐 Full Stack Development | ![80%](https://img.shields.io/badge/━━━━━━━━━━━━━━━━░░░░-80%25-22C55E?style=flat-square&labelColor=0d1117) | `ONLINE ✅` |
+| 🤖 ML / AI Engineering | ![60%](https://img.shields.io/badge/━━━━━━━━━━━━░░░░░░░░-60%25-0ea5e9?style=flat-square&labelColor=0d1117) | `LOADING ⚡` |
+| 🏗️ System Design | ![75%](https://img.shields.io/badge/━━━━━━━━━━━━━━━░░░░░-75%25-22C55E?style=flat-square&labelColor=0d1117) | `ACTIVE 🔥` |
+| 🧹 Clean Architecture | ![88%](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━░░░-88%25-22C55E?style=flat-square&labelColor=0d1117) | `NOMINAL ✅` |
+| 🧩 Problem Solving | ![95%](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━░-95%25-0ea5e9?style=flat-square&labelColor=0d1117) | `PEAK 🚀` |
 
-> 🛰️ **CURRENT MISSION:** Ship features. Stay curious. Graduate 2027.
-
-</div>
-
----
-
-## 📊 GitHub Intelligence
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=samarthgalhe89&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=SamarthGalhe89&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35&text_color=FFFFFF&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthGalhe89&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" height="165" />
+> 🌱 **CURRENT MISSION:** Build. Learn. Graduate 2027.
 
 </div>
 
@@ -118,35 +142,59 @@ interests = {
     "🤖  AI/ML"      : ["LLMs", "RAG Pipelines", "Vector DBs", "Fine-tuning"],
     "⚙️  Backend"    : ["Microservices", "Event-Driven Architecture", "Caching"],
     "📐  Design"     : ["Clean Architecture", "Domain-Driven Design", "SOLID"],
-    "🌐  Web3"       : ["Exploring the landscape..."],
+    "☁️  DevOps"     : ["MLOps", "Docker", "Cloud Deployments"],
 }
 
 for domain, topics in interests.items():
     print(f"{domain} → {', '.join(topics)}")
 ```
 
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-## 💬 Random Dev Wisdom
+[![Samarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamarthGalhe89&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=0ea5e9&text_color=c9d1d9&count_private=true)](https://github.com/SamarthGalhe89)
 
-> *"Any fool can write code that a computer can understand.*
-> *Good programmers write code that humans can understand."*
-> — Martin Fowler
+[![GitHub Streak](https://streak-stats.demolab.com?user=SamarthGalhe89&theme=tokyonight&hide_border=true&background=0d1117&stroke=22c55e&ring=22c55e&fire=0ea5e9&currStreakLabel=22c55e)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthGalhe89&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9&langs_count=8)](https://github.com/SamarthGalhe89)
+
+</div>
 
 ---
 
-### 🛰️ Signal Received? Let's Build Something Together.
+## 📈 Contribution Activity
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-galhe)
-[![Email](https://img.shields.io/badge/Send_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthgalhe9@gmail.com)
+<div align="center">
 
-<br/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamarthGalhe89&bg_color=0d1117&color=22c55e&line=0ea5e9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SamarthGalhe89.SamarthGalhe89&left_color=0d1117&right_color=00D9FF&left_text=visitors)
-
-<br/>
-<table align="center"><tr><td align="center" width="700">
-💭 "Build things that scale, systems that last, and products that matter."
-— Samarth
-</td></tr></table>
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake](https://raw.githubusercontent.com/SamarthGalhe89/SamarthGalhe89/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthgalhe9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-galhe)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamarthGalhe89)
+
+*"Build things that scale, systems that last, products that matter."*
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16a34a,100:0ea5e9&height=120&section=footer)
