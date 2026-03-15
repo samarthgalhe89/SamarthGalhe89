@@ -29,10 +29,9 @@ Focus:
   - AI / ML Pipeline Engineering
   - Scalable Backend Systems with JWT & Clean Architecture
 Currently Exploring:
-  - LLM Fine-tuning & RAG Pipelines
   - System Design & Microservices
   - MLOps & Event-Driven Architecture
-Open To  : Internships and Collaborations
+Open To  : Collaborations
 Philosophy: Build things that scale, systems that last, products that matter.
 ```
 
