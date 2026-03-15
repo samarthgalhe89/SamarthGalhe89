@@ -1,6 +1,9 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:16a34a,100:0ea5e9&height=200&section=header&text=Samarth%20Galhe&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20AI%20Enthusiast&descSize=18&descAlignY=58&descColor=a3e635)
+
+# ✦ &nbsp; Samarth Galhe &nbsp; ✦
+### `< Full-Stack Developer />` &nbsp;·&nbsp; `{ AI Enthusiast }`
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=750&height=45&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Data+Science+Undergrad+%F0%9F%A4%96;252%2B+Contributions+%7C+20%2B+Repos+%E2%9A%A1;Building+things+that+scale+%26+last.)](https://git.io/typing-svg)
 
@@ -179,11 +182,6 @@ const contact = {
 
 <div align="center">
 
-```js
-console.log("Build things that scale, systems that last, products that matter.");
-// > Build things that scale, systems that last, products that matter.
-```
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:16a34a,100:0ea5e9&height=100&section=footer)
+*Build things that scale, systems that last, products that matter.*
 
 </div>
