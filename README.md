@@ -135,28 +135,7 @@ const skillDiagnostics = {
 <br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SamarthGalhe89&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=22c55e&ring=22c55e&fire=f97316&currStreakLabel=22c55e&sideLabels=0ea5e9&dates=888888)](https://git.io/streak-stats)
-
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamarthGalhe89&bg_color=0d1117&color=22c55e&line=0ea5e9&point=f97316&area=true&area_color=22c55e&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
-
----
-
-## `snake.run(contributionGrid)`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamarthGalhe89/SamarthGalhe89/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamarthGalhe89/SamarthGalhe89/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/SamarthGalhe89/SamarthGalhe89/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
 
 ## `throw new Error('not_connecting? fix_that')`
 
