@@ -83,37 +83,12 @@ Philosophy: Build things that scale, systems that last, products that matter.
 
 | 🔖 Project | 💡 Description | ⚡ Stack | 🔗 |
 |:---|:---|:---|:---:|
-| 🌐 **Scalable Web Systems** | Production-ready full-stack applications built to handle real-world workloads with clean architecture | React · Next.js · Node.js · PostgreSQL · JWT | [![repo](https://img.shields.io/badge/-Repo-171515?style=flat&logo=github)](https://github.com/SamarthGalhe89) |
-| 🤖 **Intelligent Pipelines** | AI/ML-powered data pipelines integrating LLMs and backend systems for smart automation | Python · LangChain · Vector DBs · Express.js | [![repo](https://img.shields.io/badge/-Repo-171515?style=flat&logo=github)](https://github.com/SamarthGalhe89) |
-
----
-
-### 🤖 AI Pipeline — Architecture
-
-```
-  [User Input / Data Source]
-        │
-        ▼
-  [Ingestion Layer] ──────── API / File / Stream
-        │
-        ▼
-  [Preprocessing] ────────── Chunking + Cleaning
-        │
-        ▼
-  [Embedding Model] ──────── Vector Representation
-        │
-        ▼
-  [Vector Database] ──────── Similarity Search
-        │
-        ▼
-  [LLM Inference] ────────── Context-Aware Response
-        │
-        ▼
-  [Backend API] ──────────── Node.js / Express
-        │
-        ▼
-  [Frontend UI] ──────────── Next.js · React · Tailwind
-```
+| 📊 **github-analytics-dashboard** | A minimal dashboard to visualize GitHub profile and repository statistics | React · Next.js · TypeScript · GitHub API · Recharts · NextAuth · Tailwind | [![repo](https://img.shields.io/badge/-Repo-171515?style=flat&logo=github)](https://github.com/SamarthGalhe89/github-analytics-dashboard) |
+| 🎞️ **cloudframe-studio** | Creator-friendly media hub that auto-previews, auto-compresses, and organizes media into share-ready assets | TypeScript | [![repo](https://img.shields.io/badge/-Repo-171515?style=flat&logo=github)](https://github.com/SamarthGalhe89/cloudframe-studio) |
+| 🔐 **encryption-system** | Privacy-driven file management with end-to-end encryption and PIN-locked document access for hospitals | JavaScript · MERN Stack | [![repo](https://img.shields.io/badge/-Repo-171515?style=flat&logo=github)](https://github.com/SamarthGalhe89/encryption-system) |
+| 🔑 **nextjs-auth-system** | Full-stack auth system with signup, login, forgot/reset password and protected routes | Next.js · TypeScript · JWT | [![repo](https://img.shields.io/badge/-Repo-171515?style=flat&logo=github)](https://github.com/SamarthGalhe89/nextjs-auth-system) |
+| 😶 **autofaceblur** | AI-powered tool to detect and blur faces in videos for privacy protection | Python · OpenCV · Streamlit | [![repo](https://img.shields.io/badge/-Repo-171515?style=flat&logo=github)](https://github.com/SamarthGalhe89/autofaceblur) |
+| ⚡ **fastify** | Learning project: Building high-performance REST APIs with Fastify framework | JavaScript · Node.js · Fastify | [![repo](https://img.shields.io/badge/-Repo-171515?style=flat&logo=github)](https://github.com/SamarthGalhe89/fastify) |
 
 ---
 
@@ -179,9 +154,15 @@ for domain, topics in interests.items():
 
 <div align="center">
 
-![snake](https://raw.githubusercontent.com/SamarthGalhe89/SamarthGalhe89/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamarthGalhe89/SamarthGalhe89/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamarthGalhe89/SamarthGalhe89/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SamarthGalhe89/SamarthGalhe89/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
+
+> ⚠️ **Snake not showing?** You need to set up the GitHub Action. Create `.github/workflows/snake.yml` in your profile repo with the [Platane snake action](https://github.com/Platane/snk) and run it once to generate the SVG into the `output` branch.
 
 ---
 
