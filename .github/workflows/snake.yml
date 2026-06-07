@@ -32,19 +32,18 @@ jobs:
           git init -b output
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          auth_header="$(printf '%s' "x-access-token:${GITHUB_TOKEN}" | base64 -w 0)"
-          git config http.https://github.com/.extraheader "Authorization: Basic ${auth_header}"
+          auth_header="$(printf '%s' "x-access-token:${GITHUB_TOKEN}" | base64 | tr -d '\n')"
           git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
           git add --all
           git commit --allow-empty -m "Deploy contribution snake"
 
           for attempt in 1 2 3 4 5; do
-            if git push --force origin output:output; then
+            if git -c http.https://github.com/.extraheader="Authorization: Basic ${auth_header}" push --force origin output:output; then
               exit 0
             fi
 
             echo "Push attempt ${attempt} failed. Retrying..."
-            sleep $((attempt * 5))
+            sleep $((5 * 2 ** (attempt - 1)))
           done
 
           echo "Failed to push to output branch after retries."
