@@ -32,8 +32,8 @@ jobs:
           git init -b output
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          auth_header="$(printf '%s' "${GITHUB_ACTOR}:${GITHUB_TOKEN}" | base64 -w 0)"
-          git config http.https://github.com/.extraheader "AUTHORIZATION: basic ${auth_header}"
+          auth_header="$(printf '%s' "x-access-token:${GITHUB_TOKEN}" | base64 -w 0)"
+          git config http.https://github.com/.extraheader "Authorization: Basic ${auth_header}"
           git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
           git add --all
           git commit --allow-empty -m "Deploy contribution snake"
