@@ -25,9 +25,32 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push SVG to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
+        run: |
+          set -euo pipefail
+          cd dist
+
+          git init -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          auth_header="$(printf '%s' "x-access-token:${GITHUB_TOKEN}" | base64 | tr -d '\n')"
+          git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          git add --all
+          git commit --allow-empty -m "Deploy contribution snake"
+
+          for attempt in 1 2 3 4 5; do
+            if git -c http.https://github.com/.extraheader="Authorization: Basic ${auth_header}" push --force origin output:output; then
+              exit 0
+            fi
+
+            echo "Push attempt ${attempt} failed. Retrying..."
+            sleep_time=$((5 * 2 ** (attempt - 1)))
+            if [ "${sleep_time}" -gt 30 ]; then
+              sleep_time=30
+            fi
+            sleep "${sleep_time}"
+          done
+
+          echo "Failed to push to output branch after retries."
+          exit 1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
