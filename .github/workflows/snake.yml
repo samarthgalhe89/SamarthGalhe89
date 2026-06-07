@@ -32,11 +32,14 @@ jobs:
           git init -b output
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          auth_header="$(printf '%s' "${GITHUB_ACTOR}:${GITHUB_TOKEN}" | base64 -w 0)"
+          git config http.https://github.com/.extraheader "AUTHORIZATION: basic ${auth_header}"
+          git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
           git add --all
           git commit --allow-empty -m "Deploy contribution snake"
 
           for attempt in 1 2 3 4 5; do
-            if git push --force "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output:output; then
+            if git push --force origin output:output; then
               exit 0
             fi
 
